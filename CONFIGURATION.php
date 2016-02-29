@@ -14,7 +14,7 @@
 $authentication = [
     'ADMIN_AUTHENTICATION' => [
         'admin'  => getenv('ADMIN_PASSWORD'),
-        'user@xfers.io'  => getenv('ADMIN_PASSWORD')
+        'user@xfers.io' => 'tester'
     ],
 ];
 
