@@ -1,7 +1,7 @@
 Status Cat - A Self Hosted Status Page
 ======================================
 
-A self hosted Status page for you and your company to communicate with internal and external stakeholders.
+A self hosted Status page for you and your company to communicate with internal and external stakeholders :)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/0b8d213b4fc54e779ec87fdad492830a)](https://www.codacy.com/app/sam/status-cat)
 
